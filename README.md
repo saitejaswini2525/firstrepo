@@ -1,2 +1,3 @@
-# dog has four legs
-creating first repo file for Web Apps Lab
+# first repo
+creating first repo file for Web Apps Lab<br>
+Sai Tejaswini Yarapathineni - I am learning github
